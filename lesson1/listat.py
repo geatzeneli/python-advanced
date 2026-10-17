@@ -7,7 +7,7 @@ print(grupi[4])
 print(grupi[5])
 
 
-grupi2=["geat","ndrit","lind","urim","drita","lisa","diella"]
+grupi2=["geat","ndrit","lind","urim","drita","lisa","arba"]
 print(grupi2[0])
 print(grupi2[1])
 print(grupi2[2])
