@@ -4,4 +4,4 @@ app=FastAPI()
 
 @app.get("/")
 def read_root():
-    return{"message":"Welcome to the moviesw CRUD API."}
+    return{"message":"Welcome to the movies CRUD API."}
